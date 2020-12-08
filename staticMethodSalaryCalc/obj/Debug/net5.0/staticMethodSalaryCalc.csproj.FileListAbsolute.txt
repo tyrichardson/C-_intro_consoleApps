@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/bin/Debug/net5.0/staticMethodSalaryCalc.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/bin/Debug/net5.0/staticMethodSalaryCalc.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/bin/Debug/net5.0/staticMethodSalaryCalc.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/bin/Debug/net5.0/staticMethodSalaryCalc.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/bin/Debug/net5.0/ref/staticMethodSalaryCalc.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/bin/Debug/net5.0/staticMethodSalaryCalc.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/obj/Debug/net5.0/staticMethodSalaryCalc.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/obj/Debug/net5.0/staticMethodSalaryCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/obj/Debug/net5.0/staticMethodSalaryCalc.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/obj/Debug/net5.0/staticMethodSalaryCalc.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/obj/Debug/net5.0/staticMethodSalaryCalc.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/obj/Debug/net5.0/staticMethodSalaryCalc.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/obj/Debug/net5.0/ref/staticMethodSalaryCalc.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/obj/Debug/net5.0/staticMethodSalaryCalc.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/staticMethodSalaryCalc/obj/Debug/net5.0/staticMethodSalaryCalc.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+F:/Vinod/MISC/UDEMY Course Creation/Course C#/Projects/AppEnum/AppEnum/bin/Debug/netcoreapp2.1/AppEnum.deps.json
+F:/Vinod/MISC/UDEMY Course Creation/Course C#/Projects/AppEnum/AppEnum/bin/Debug/netcoreapp2.1/AppEnum.runtimeconfig.json
+F:/Vinod/MISC/UDEMY Course Creation/Course C#/Projects/AppEnum/AppEnum/bin/Debug/netcoreapp2.1/AppEnum.runtimeconfig.dev.json
+F:/Vinod/MISC/UDEMY Course Creation/Course C#/Projects/AppEnum/AppEnum/bin/Debug/netcoreapp2.1/AppEnum.dll
+F:/Vinod/MISC/UDEMY Course Creation/Course C#/Projects/AppEnum/AppEnum/bin/Debug/netcoreapp2.1/AppEnum.pdb
+F:/Vinod/MISC/UDEMY Course Creation/Course C#/Projects/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.csprojAssemblyReference.cache
+F:/Vinod/MISC/UDEMY Course Creation/Course C#/Projects/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.csproj.CoreCompileInputs.cache
+F:/Vinod/MISC/UDEMY Course Creation/Course C#/Projects/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.AssemblyInfoInputs.cache
+F:/Vinod/MISC/UDEMY Course Creation/Course C#/Projects/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.AssemblyInfo.cs
+F:/Vinod/MISC/UDEMY Course Creation/Course C#/Projects/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.dll
+F:/Vinod/MISC/UDEMY Course Creation/Course C#/Projects/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/zipFiles/AppEnum/AppEnum/bin/Debug/netcoreapp2.1/AppEnum.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/zipFiles/AppEnum/AppEnum/bin/Debug/netcoreapp2.1/AppEnum.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/zipFiles/AppEnum/AppEnum/bin/Debug/netcoreapp2.1/AppEnum.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/zipFiles/AppEnum/AppEnum/bin/Debug/netcoreapp2.1/AppEnum.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/zipFiles/AppEnum/AppEnum/bin/Debug/netcoreapp2.1/AppEnum.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/zipFiles/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/zipFiles/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/zipFiles/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/zipFiles/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/zipFiles/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/zipFiles/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/zipFiles/AppEnum/AppEnum/obj/Debug/netcoreapp2.1/AppEnum.genruntimeconfig.cache

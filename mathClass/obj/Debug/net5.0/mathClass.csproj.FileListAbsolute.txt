@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/bin/Debug/net5.0/mathClass.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/bin/Debug/net5.0/mathClass.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/bin/Debug/net5.0/mathClass.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/bin/Debug/net5.0/mathClass.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/bin/Debug/net5.0/ref/mathClass.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/bin/Debug/net5.0/mathClass.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/obj/Debug/net5.0/mathClass.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/obj/Debug/net5.0/mathClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/obj/Debug/net5.0/mathClass.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/obj/Debug/net5.0/mathClass.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/obj/Debug/net5.0/mathClass.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/obj/Debug/net5.0/mathClass.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/obj/Debug/net5.0/ref/mathClass.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/obj/Debug/net5.0/mathClass.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/mathClass/obj/Debug/net5.0/mathClass.genruntimeconfig.cache

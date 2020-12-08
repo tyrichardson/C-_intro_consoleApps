@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/bin/Debug/net5.0/input_output.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/bin/Debug/net5.0/input_output.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/bin/Debug/net5.0/input_output.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/bin/Debug/net5.0/input_output.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/bin/Debug/net5.0/ref/input_output.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/bin/Debug/net5.0/input_output.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/obj/Debug/net5.0/input_output.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/obj/Debug/net5.0/input_output.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/obj/Debug/net5.0/input_output.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/obj/Debug/net5.0/input_output.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/obj/Debug/net5.0/input_output.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/obj/Debug/net5.0/input_output.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/obj/Debug/net5.0/ref/input_output.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/obj/Debug/net5.0/input_output.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/input_output/obj/Debug/net5.0/input_output.genruntimeconfig.cache

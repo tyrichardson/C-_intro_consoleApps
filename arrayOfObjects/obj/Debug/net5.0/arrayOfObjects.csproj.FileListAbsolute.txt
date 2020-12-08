@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/bin/Debug/net5.0/arrayOfObjects.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/bin/Debug/net5.0/arrayOfObjects.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/bin/Debug/net5.0/arrayOfObjects.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/bin/Debug/net5.0/arrayOfObjects.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/bin/Debug/net5.0/ref/arrayOfObjects.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/bin/Debug/net5.0/arrayOfObjects.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/obj/Debug/net5.0/arrayOfObjects.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/obj/Debug/net5.0/arrayOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/obj/Debug/net5.0/arrayOfObjects.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/obj/Debug/net5.0/arrayOfObjects.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/obj/Debug/net5.0/arrayOfObjects.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/obj/Debug/net5.0/arrayOfObjects.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/obj/Debug/net5.0/ref/arrayOfObjects.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/obj/Debug/net5.0/arrayOfObjects.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/arrayOfObjects/obj/Debug/net5.0/arrayOfObjects.genruntimeconfig.cache

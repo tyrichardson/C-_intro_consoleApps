@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/bin/Debug/net5.0/hashtableCapitals.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/bin/Debug/net5.0/hashtableCapitals.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/bin/Debug/net5.0/hashtableCapitals.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/bin/Debug/net5.0/hashtableCapitals.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/bin/Debug/net5.0/ref/hashtableCapitals.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/bin/Debug/net5.0/hashtableCapitals.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/obj/Debug/net5.0/hashtableCapitals.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/obj/Debug/net5.0/hashtableCapitals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/obj/Debug/net5.0/hashtableCapitals.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/obj/Debug/net5.0/hashtableCapitals.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/obj/Debug/net5.0/hashtableCapitals.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/obj/Debug/net5.0/hashtableCapitals.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/obj/Debug/net5.0/ref/hashtableCapitals.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/obj/Debug/net5.0/hashtableCapitals.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/hashtableCapitals/obj/Debug/net5.0/hashtableCapitals.genruntimeconfig.cache

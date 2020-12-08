@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/bin/Debug/net5.0/dateTime.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/bin/Debug/net5.0/dateTime.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/bin/Debug/net5.0/dateTime.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/bin/Debug/net5.0/dateTime.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/bin/Debug/net5.0/ref/dateTime.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/bin/Debug/net5.0/dateTime.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/obj/Debug/net5.0/dateTime.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/obj/Debug/net5.0/dateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/obj/Debug/net5.0/dateTime.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/obj/Debug/net5.0/dateTime.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/obj/Debug/net5.0/dateTime.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/obj/Debug/net5.0/dateTime.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/obj/Debug/net5.0/ref/dateTime.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/obj/Debug/net5.0/dateTime.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/dateTime/obj/Debug/net5.0/dateTime.genruntimeconfig.cache

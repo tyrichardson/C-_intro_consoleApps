@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/bin/Debug/net5.0/textFiles.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/bin/Debug/net5.0/textFiles.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/bin/Debug/net5.0/textFiles.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/bin/Debug/net5.0/textFiles.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/bin/Debug/net5.0/ref/textFiles.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/bin/Debug/net5.0/textFiles.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/obj/Debug/net5.0/textFiles.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/obj/Debug/net5.0/textFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/obj/Debug/net5.0/textFiles.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/obj/Debug/net5.0/textFiles.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/obj/Debug/net5.0/textFiles.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/obj/Debug/net5.0/textFiles.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/obj/Debug/net5.0/ref/textFiles.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/obj/Debug/net5.0/textFiles.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/textFiles/obj/Debug/net5.0/textFiles.genruntimeconfig.cache

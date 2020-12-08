@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/bin/Debug/net5.0/array2D.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/bin/Debug/net5.0/array2D.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/bin/Debug/net5.0/array2D.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/bin/Debug/net5.0/array2D.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/bin/Debug/net5.0/ref/array2D.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/bin/Debug/net5.0/array2D.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/obj/Debug/net5.0/array2D.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/obj/Debug/net5.0/array2D.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/obj/Debug/net5.0/array2D.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/obj/Debug/net5.0/array2D.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/obj/Debug/net5.0/array2D.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/obj/Debug/net5.0/array2D.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/obj/Debug/net5.0/ref/array2D.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/obj/Debug/net5.0/array2D.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/array2D/obj/Debug/net5.0/array2D.genruntimeconfig.cache

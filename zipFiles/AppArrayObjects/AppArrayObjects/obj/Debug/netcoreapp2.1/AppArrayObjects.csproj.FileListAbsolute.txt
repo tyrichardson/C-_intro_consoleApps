@@ -1,0 +1,11 @@
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppArrayObjects\AppArrayObjects\bin\Debug\netcoreapp2.1\AppArrayObjects.deps.json
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppArrayObjects\AppArrayObjects\bin\Debug\netcoreapp2.1\AppArrayObjects.runtimeconfig.json
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppArrayObjects\AppArrayObjects\bin\Debug\netcoreapp2.1\AppArrayObjects.runtimeconfig.dev.json
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppArrayObjects\AppArrayObjects\bin\Debug\netcoreapp2.1\AppArrayObjects.dll
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppArrayObjects\AppArrayObjects\bin\Debug\netcoreapp2.1\AppArrayObjects.pdb
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppArrayObjects\AppArrayObjects\obj\Debug\netcoreapp2.1\AppArrayObjects.csprojAssemblyReference.cache
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppArrayObjects\AppArrayObjects\obj\Debug\netcoreapp2.1\AppArrayObjects.csproj.CoreCompileInputs.cache
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppArrayObjects\AppArrayObjects\obj\Debug\netcoreapp2.1\AppArrayObjects.AssemblyInfoInputs.cache
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppArrayObjects\AppArrayObjects\obj\Debug\netcoreapp2.1\AppArrayObjects.AssemblyInfo.cs
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppArrayObjects\AppArrayObjects\obj\Debug\netcoreapp2.1\AppArrayObjects.dll
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppArrayObjects\AppArrayObjects\obj\Debug\netcoreapp2.1\AppArrayObjects.pdb

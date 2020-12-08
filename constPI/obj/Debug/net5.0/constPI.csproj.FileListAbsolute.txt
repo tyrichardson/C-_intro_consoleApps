@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/bin/Debug/net5.0/constPI.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/bin/Debug/net5.0/constPI.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/bin/Debug/net5.0/constPI.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/bin/Debug/net5.0/constPI.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/bin/Debug/net5.0/ref/constPI.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/bin/Debug/net5.0/constPI.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/obj/Debug/net5.0/constPI.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/obj/Debug/net5.0/constPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/obj/Debug/net5.0/constPI.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/obj/Debug/net5.0/constPI.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/obj/Debug/net5.0/constPI.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/obj/Debug/net5.0/constPI.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/obj/Debug/net5.0/ref/constPI.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/obj/Debug/net5.0/constPI.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/constPI/obj/Debug/net5.0/constPI.genruntimeconfig.cache

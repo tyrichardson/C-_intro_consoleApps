@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/bin/Debug/net5.0/myApp.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/bin/Debug/net5.0/myApp.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/bin/Debug/net5.0/ref/myApp.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/bin/Debug/net5.0/myApp.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/obj/Debug/net5.0/myApp.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/obj/Debug/net5.0/myApp.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/obj/Debug/net5.0/ref/myApp.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/obj/Debug/net5.0/myApp.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache

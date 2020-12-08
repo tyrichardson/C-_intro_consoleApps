@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/bin/Debug/net5.0/listTExample.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/bin/Debug/net5.0/listTExample.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/bin/Debug/net5.0/listTExample.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/bin/Debug/net5.0/listTExample.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/bin/Debug/net5.0/ref/listTExample.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/bin/Debug/net5.0/listTExample.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/obj/Debug/net5.0/listTExample.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/obj/Debug/net5.0/listTExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/obj/Debug/net5.0/listTExample.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/obj/Debug/net5.0/listTExample.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/obj/Debug/net5.0/listTExample.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/obj/Debug/net5.0/listTExample.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/obj/Debug/net5.0/ref/listTExample.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/obj/Debug/net5.0/listTExample.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/listTExample/obj/Debug/net5.0/listTExample.genruntimeconfig.cache

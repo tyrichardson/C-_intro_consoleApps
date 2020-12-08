@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppEnum", "AppEnum\AppEnum.csproj", "{61009F7D-5331-463F-980B-AF505E2B05BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61009F7D-5331-463F-980B-AF505E2B05BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61009F7D-5331-463F-980B-AF505E2B05BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61009F7D-5331-463F-980B-AF505E2B05BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61009F7D-5331-463F-980B-AF505E2B05BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FA42BC0-9845-40FA-8E32-8654BABFBDEA}
+	EndGlobalSection
+EndGlobal

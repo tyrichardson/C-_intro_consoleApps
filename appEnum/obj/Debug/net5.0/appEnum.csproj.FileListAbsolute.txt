@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/bin/Debug/net5.0/appEnum.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/bin/Debug/net5.0/appEnum.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/bin/Debug/net5.0/appEnum.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/bin/Debug/net5.0/appEnum.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/bin/Debug/net5.0/ref/appEnum.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/bin/Debug/net5.0/appEnum.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/obj/Debug/net5.0/appEnum.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/obj/Debug/net5.0/appEnum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/obj/Debug/net5.0/appEnum.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/obj/Debug/net5.0/appEnum.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/obj/Debug/net5.0/appEnum.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/obj/Debug/net5.0/appEnum.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/obj/Debug/net5.0/ref/appEnum.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/obj/Debug/net5.0/appEnum.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appEnum/obj/Debug/net5.0/appEnum.genruntimeconfig.cache

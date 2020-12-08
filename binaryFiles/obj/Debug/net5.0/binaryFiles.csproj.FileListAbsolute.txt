@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/bin/Debug/net5.0/binaryFiles.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/bin/Debug/net5.0/binaryFiles.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/bin/Debug/net5.0/binaryFiles.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/bin/Debug/net5.0/binaryFiles.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/bin/Debug/net5.0/ref/binaryFiles.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/bin/Debug/net5.0/binaryFiles.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/obj/Debug/net5.0/binaryFiles.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/obj/Debug/net5.0/binaryFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/obj/Debug/net5.0/binaryFiles.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/obj/Debug/net5.0/binaryFiles.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/obj/Debug/net5.0/binaryFiles.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/obj/Debug/net5.0/binaryFiles.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/obj/Debug/net5.0/ref/binaryFiles.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/obj/Debug/net5.0/binaryFiles.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/binaryFiles/obj/Debug/net5.0/binaryFiles.genruntimeconfig.cache

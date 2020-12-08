@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/bin/Debug/net5.0/AppVariableDemo.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/bin/Debug/net5.0/AppVariableDemo.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/bin/Debug/net5.0/AppVariableDemo.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/bin/Debug/net5.0/AppVariableDemo.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/bin/Debug/net5.0/ref/AppVariableDemo.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/bin/Debug/net5.0/AppVariableDemo.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/obj/Debug/net5.0/AppVariableDemo.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/obj/Debug/net5.0/AppVariableDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/obj/Debug/net5.0/AppVariableDemo.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/obj/Debug/net5.0/AppVariableDemo.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/obj/Debug/net5.0/AppVariableDemo.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/obj/Debug/net5.0/AppVariableDemo.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/obj/Debug/net5.0/ref/AppVariableDemo.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/obj/Debug/net5.0/AppVariableDemo.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/AppVariableDemo/obj/Debug/net5.0/AppVariableDemo.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppValidation\AppValidation\bin\Debug\netcoreapp2.1\AppValidation.deps.json
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppValidation\AppValidation\bin\Debug\netcoreapp2.1\AppValidation.runtimeconfig.json
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppValidation\AppValidation\bin\Debug\netcoreapp2.1\AppValidation.runtimeconfig.dev.json
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppValidation\AppValidation\bin\Debug\netcoreapp2.1\AppValidation.dll
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppValidation\AppValidation\bin\Debug\netcoreapp2.1\AppValidation.pdb
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppValidation\AppValidation\obj\Debug\netcoreapp2.1\AppValidation.csprojAssemblyReference.cache
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppValidation\AppValidation\obj\Debug\netcoreapp2.1\AppValidation.csproj.CoreCompileInputs.cache
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppValidation\AppValidation\obj\Debug\netcoreapp2.1\AppValidation.AssemblyInfoInputs.cache
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppValidation\AppValidation\obj\Debug\netcoreapp2.1\AppValidation.AssemblyInfo.cs
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppValidation\AppValidation\obj\Debug\netcoreapp2.1\AppValidation.dll
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppValidation\AppValidation\obj\Debug\netcoreapp2.1\AppValidation.pdb

@@ -1,0 +1,11 @@
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppStructure\AppStructure\bin\Debug\netcoreapp2.1\AppStructure.deps.json
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppStructure\AppStructure\bin\Debug\netcoreapp2.1\AppStructure.runtimeconfig.json
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppStructure\AppStructure\bin\Debug\netcoreapp2.1\AppStructure.runtimeconfig.dev.json
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppStructure\AppStructure\bin\Debug\netcoreapp2.1\AppStructure.dll
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppStructure\AppStructure\bin\Debug\netcoreapp2.1\AppStructure.pdb
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppStructure\AppStructure\obj\Debug\netcoreapp2.1\AppStructure.csprojAssemblyReference.cache
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppStructure\AppStructure\obj\Debug\netcoreapp2.1\AppStructure.csproj.CoreCompileInputs.cache
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppStructure\AppStructure\obj\Debug\netcoreapp2.1\AppStructure.AssemblyInfoInputs.cache
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppStructure\AppStructure\obj\Debug\netcoreapp2.1\AppStructure.AssemblyInfo.cs
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppStructure\AppStructure\obj\Debug\netcoreapp2.1\AppStructure.dll
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppStructure\AppStructure\obj\Debug\netcoreapp2.1\AppStructure.pdb

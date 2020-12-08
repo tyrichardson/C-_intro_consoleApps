@@ -1,0 +1,11 @@
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppMethodTemp\AppMethodTemp\bin\Debug\netcoreapp2.1\AppMethodTemp.deps.json
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppMethodTemp\AppMethodTemp\bin\Debug\netcoreapp2.1\AppMethodTemp.runtimeconfig.json
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppMethodTemp\AppMethodTemp\bin\Debug\netcoreapp2.1\AppMethodTemp.runtimeconfig.dev.json
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppMethodTemp\AppMethodTemp\bin\Debug\netcoreapp2.1\AppMethodTemp.dll
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppMethodTemp\AppMethodTemp\bin\Debug\netcoreapp2.1\AppMethodTemp.pdb
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppMethodTemp\AppMethodTemp\obj\Debug\netcoreapp2.1\AppMethodTemp.csprojAssemblyReference.cache
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppMethodTemp\AppMethodTemp\obj\Debug\netcoreapp2.1\AppMethodTemp.csproj.CoreCompileInputs.cache
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppMethodTemp\AppMethodTemp\obj\Debug\netcoreapp2.1\AppMethodTemp.AssemblyInfoInputs.cache
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppMethodTemp\AppMethodTemp\obj\Debug\netcoreapp2.1\AppMethodTemp.AssemblyInfo.cs
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppMethodTemp\AppMethodTemp\obj\Debug\netcoreapp2.1\AppMethodTemp.dll
+F:\Vinod\MISC\UDEMY Course Creation\Course C#\Projects-Live Coding\AppMethodTemp\AppMethodTemp\obj\Debug\netcoreapp2.1\AppMethodTemp.pdb

@@ -1,0 +1,15 @@
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/bin/Debug/net5.0/appConstructor.deps.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/bin/Debug/net5.0/appConstructor.runtimeconfig.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/bin/Debug/net5.0/appConstructor.runtimeconfig.dev.json
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/bin/Debug/net5.0/appConstructor.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/bin/Debug/net5.0/ref/appConstructor.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/bin/Debug/net5.0/appConstructor.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/obj/Debug/net5.0/appConstructor.csprojAssemblyReference.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/obj/Debug/net5.0/appConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/obj/Debug/net5.0/appConstructor.AssemblyInfoInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/obj/Debug/net5.0/appConstructor.AssemblyInfo.cs
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/obj/Debug/net5.0/appConstructor.csproj.CoreCompileInputs.cache
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/obj/Debug/net5.0/appConstructor.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/obj/Debug/net5.0/ref/appConstructor.dll
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/obj/Debug/net5.0/appConstructor.pdb
+/Users/tyrichardson/Coding/C#_Beginners-Udemy/appConstructor/obj/Debug/net5.0/appConstructor.genruntimeconfig.cache
